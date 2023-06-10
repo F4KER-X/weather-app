@@ -14,7 +14,10 @@ WeatherPro is currently using the Open weather 3.0 and 2.5 API.</p><h2>Technolog
 <li>Hourly Forcast</li>
 </ul><ul>
 <li>Daily Forcast</li>
-</ul><h2>Setup</h2>
+</ul>
+<img src="https://i.imgur.com/Tx8ptzX.png" alt="">
+<img src="https://i.imgur.com/3F0n7c4.png" alt="">
+<h2>Setup</h2>
 <hr><p>The project require some dependencies:
 Luxon, Tailwind</p><h5>Steps</h5><ul>
 <li>npm install</li>
